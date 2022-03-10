@@ -32,6 +32,7 @@ Thoughts go here
 
 * Svelte
 * rollup-plugin-svelte
+* Svelte extension for VS Code (for ease of use and editing)
 
 #### **Ramp-Up Projections**
 
@@ -60,6 +61,8 @@ Is there an active community of developers supporting and growing it?
 * [framework](https://svelte.dev/)
 * [docs](https://svelte.dev/docs)
 * [examples/tutorials](https://svelte.dev/tutorial/basics)
+* [Adding Svelte 3 to an Existing Application](https://dtang.dev/2020-01-22-adding-svelte-3-to-an-existing-application/)
+* [Adding Svelte to an Existing Website](https://apop.tech/posts/adding-svelte-to-an-existing-website/)
 
 ### **Code Demos**
 
