@@ -30,8 +30,8 @@ Thoughts go here
 
 #### **Systems Requirements**
 
-Svelte, 
-rollup-plugin-svelte
+* Svelte
+* rollup-plugin-svelte
 
 #### **Ramp-Up Projections**
 
@@ -39,18 +39,19 @@ How long would/should it take a team of mid-junior developers to become producti
 
 #### **Community Support and Adoption levels**
 
-How popular is this framework? 
+How popular is this framework?
 
 * It has a small following.
 
-What big companies are running on it? 
+What big companies are running on it?
+
 * IBM, Alaska Airlines, Rakuten, GoDaddy, The New York Times, Square.
 
-How is it “seen” in the general JS community? 
+How is it “seen” in the general JS community?
 
 * Voted most loved web framework with most satisfied developers in a pair of industry surveys.
 
-Is there an active community of developers supporting and growing it? 
+Is there an active community of developers supporting and growing it?
 
 * Yes.
 
