@@ -6,7 +6,7 @@
 
 ### **Overall Score and Comments**
 
-#### **Score (Out of 10): 7**
+#### **Score (Out of 10): TBD**
 
 #### **General Comments**
 
@@ -30,7 +30,8 @@ Thoughts go here
 
 #### **Systems Requirements**
 
-Above and beyond ‘node’ and ‘linux’, what dependencies or core requirements exist for this framework? Can it play at AWS/Heroku? Does it require a certain database?
+Svelte, 
+rollup-plugin-svelte
 
 #### **Ramp-Up Projections**
 
@@ -38,18 +39,31 @@ How long would/should it take a team of mid-junior developers to become producti
 
 #### **Community Support and Adoption levels**
 
-How popular is this framework? What big companies are running on it? How is it “seen” in the general JS community? Is there an active community of developers supporting and growing it?
+How popular is this framework? 
+
+* It has a small following.
+
+What big companies are running on it? 
+* IBM, Alaska Airlines, Rakuten, GoDaddy, The New York Times, Square.
+
+How is it “seen” in the general JS community? 
+
+* Voted most loved web framework with most satisfied developers in a pair of industry surveys.
+
+Is there an active community of developers supporting and growing it? 
+
+* Yes.
 
 ### **Links and Resources**
 
-* [framework](http://xyz.com/)
-* [docs](http://xyz.com/)
-* [examples/tutorials](http://xyz.com/)
+* [framework](https://svelte.dev/)
+* [docs](https://svelte.dev/docs)
+* [examples/tutorials](https://svelte.dev/tutorial/basics)
 
 ### **Code Demos**
 
 * [live/running application](http://xyz.com/)
-* [code repository](http://xyz.com/)
+* [code repository](https://github.com/aenyeart/salmon-cookies-svelte)
 
 ### **Operating Instructions**
 
