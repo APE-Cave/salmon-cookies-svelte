@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Daily Cookie Sales</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <header class="flex full">
+    <div class="flex">
+      <h1 class="font-special">Pat's Salmon Cookies</h1>
+      <h3 class="font-tagline">Normal cookies are boring.<br>Try something <em>extraordinary!</em></h3>
+    </div>
+    <nav class="font-tagline">
+      <ul class="flex">
+        <li><a href="index.html">Return to Home Page</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <table id="sales-sheet">
+  </table>
+
+  <form id="new-store-form">
+    <fieldset >
+      <legend>New Store Info</legend>
+      
+      <label for="location">City: </label>
+      <input type="text" name="location" id="location" placeholder="City Name" required>
+
+      <label for="min-cust">Min. Customers per Hour: </label>
+      <input type="number" name="minCust" id="min-cust" min="0" placeholder="#" required>
+      
+      <label for="max-cust">Max. Customers per Hour: </label>
+      <input type="number" name="maxCust" id="max-cust" min="0" placeholder="#" required>
+      
+      <label for="avg-sold-per-cust">Average Cookies Sold per Customer: </label>
+      <input type="number" name="avgSoldPerCust" id="avg-sold-per-cust" min="0" step="0.1" placeholder="# " required>
+
+      <button type="submit">SUBMIT! (or perish)</button>
+      
+    </fieldset>
+
+  </form>
+  <script src="js/app.js"></script>
+</body>
+
+</html>
